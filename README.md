@@ -1,17 +1,14 @@
 ![github-submission-banner](https://github.com/user-attachments/assets/a1493b84-e4e2-456e-a791-ce35ee2bcf2f)
 
-# 🚀 Project Title
+# 🚀 MindYourTabs
 
-> A one-line tagline or mission statement for your project.
+> Context-Aware Desktop Focus Manager.
 
 ---
 
 ## 📌 Problem Statement
 
-Select the problem statement number and title from the official list given in Participant Manual.
-
-**Example:**  
-**Problem Statement 7 – Transform the Future of Rural Commerce**
+Problem Statement 5 - Build the Future of AI Computer Control with Screenpipe's - Terminator
 
 ---
 
